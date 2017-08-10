@@ -1,0 +1,50 @@
+
+.jumbotron{
+  background-image: url("http://www.sk8nbike.com/images/Swiss_2007/Panoramic_01_HD.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+  font: bold;
+  color: black;
+}
+h2 {
+  color: red;
+  font-size: 20px;
+  line-height: 2px;
+  font: bold;
+}
+h4 {
+  color: #080000;
+  font: bold;
+}
+th {
+  width: 20%;
+  line-height: 1.5;
+}
+td {
+  width: 20%;
+  line-height: 1.5;
+}
+.btn btn-primary {
+background: #1E90FF;
+color: white;
+padding-left: 20px;
+padding-right: 20px;
+border: .5px solid black;
+line-height: 20px;
+}
+.row {
+  margin-left: -175px;
+  margin-right: -175px;
+}
+  
+.table {
+  width: 100%;
+}
+
+.bar {
+  width: 100%;
+  line-height: 1.5;
+}
+   
+    
